@@ -4,7 +4,6 @@ body{
 }
 
 .div__back{
-    
     display : flex;
     height: 600px;
     width : 1200px;
@@ -69,15 +68,14 @@ body{
 .div__profile--ul {
     list-style-type: none;
     padding : 45px 30px;
+    color: hsl(235, 45%, 61%);
 }
 
 .div__profile--li{
     line-height: 2.5rem;
     max-width: 100%;
     cursor : pointer;
-    display : list-item;
-    color: hsl(235, 45%, 61%);
-    
+    display : list-item;    
 }
 
 .div__profile--li:hover{
