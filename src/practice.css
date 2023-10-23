@@ -13,8 +13,11 @@ body{
     padding-top: 10px;
 }
 
+.font__click{
+    color : #ccc;
+}
+
 .div__profile{
-    
     width : 25%;
     height: auto;
     padding : 10px 10px 0 10px;
